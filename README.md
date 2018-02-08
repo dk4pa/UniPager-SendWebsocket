@@ -1,4 +1,4 @@
-# unipager-send-websocket
+# UniPager-SendWebsocket
 
 Send local Message over Websocket connection.
 
