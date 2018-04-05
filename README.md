@@ -7,7 +7,7 @@ Options are:
 
 ric, text, m_type(AlphaNum or Numeric), m_func(Func0-3)
 
-## Version 2: unipager_send_ng.py
+## Version 2: unipager_send.py
 * Password authentification implemented
 * Command line arguments with default values
 
